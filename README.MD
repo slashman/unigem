@@ -7,7 +7,7 @@ A collection of Unity UI elements to mimick DOS GEM UI
 Santiago Zapata
 
 ## How to use it
-- Include the UniGem directory inside the Assets directory of your Unity project
+- Include the `UniGEM` directory inside the Assets directory of your Unity project
 - Create instances of the Prefabs to replicate the widgets.
 
 ## License
